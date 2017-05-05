@@ -10,7 +10,7 @@ Download the Calculator App from the Sample-Apps repository: https://github.com/
 
 ### 2) Upload the app on your TestObject dashboard
 
-- log in to the TestObject platform on (https://app.testobject.com)
+- log in to the TestObject platform on https://app.testobject.com
 - click on the Android/iOS App button
 - upload the apk file you have just downloaded
 - you can set the name and the version of your app in the next dialog box

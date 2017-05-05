@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 ## Android - Test example with Calculator App
 
 This sample provides a full Android JUnit based test project that can be imported as a Maven project on Eclipse or Intellij IDE.
@@ -59,6 +58,4 @@ The correct URL to use for your test is indicated above the testobject_device on
 Run the test in your IDE and you will see its success both in your IDE and on the TestObject platform on the "Test Results" page.
 
 
-=======
-Android JUnit based test projects
->>>>>>> origin/master
+
